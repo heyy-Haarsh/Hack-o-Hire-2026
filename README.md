@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ AegisAI — FraudShield Platform
+# 🛡️ FraudShield AI — FraudShield Platform
 
 **AI-Powered Enterprise Fraud Detection & Data Security**
 
@@ -19,7 +19,7 @@
 
 ## 📖 Overview
 
-**AegisAI** is a comprehensive, enterprise-grade security platform that protects banking organisations from the full spectrum of modern AI-era threats. Built as a **microservices architecture** with 10+ containerised services, it combines cutting-edge machine learning with rule-based systems to defend against:
+**FraudShield AI** is a comprehensive, enterprise-grade security platform that protects banking organisations from the full spectrum of modern AI-era threats. Built as a **microservices architecture** with 10+ containerised services, it combines cutting-edge machine learning with rule-based systems to defend against:
 
 - 📧 **Phishing emails** (multilingual, AI-generated)
 - 🎙️ **Deepfake voice calls** (vishing attacks)
